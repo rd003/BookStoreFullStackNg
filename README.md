@@ -7,6 +7,7 @@
 - Sqlite (Database)
 - xUnit for unit and integration tests
 - Angular 18 (client side)
+- Ngrx for state management
 
 ## How to run the project
 
